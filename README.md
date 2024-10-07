@@ -4,6 +4,8 @@
 </div>
 
 ## Overview
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRoKrish14%2Fpuris.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FRoKrish14%2Fpuris?ref=badge_shield)
+
 
 The project is made of a backend and a frontend. Look into the respective folders and their documentation to get
 information about prerequirements and getting started guides.
@@ -47,6 +49,9 @@ For productive use, the following features should be implemented:
 
 The project is licensed under the [Apache License Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 For details on the licensing terms, see the `LICENSE` file.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FRoKrish14%2Fpuris.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FRoKrish14%2Fpuris?ref=badge_large)
 
 ## Notice for Docker Image
 
